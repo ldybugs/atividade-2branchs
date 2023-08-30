@@ -1,24 +1,24 @@
 .img1{
-    width: 500px;
+    width: 520px;
     padding-left: 180px;
 }
 
 .img2{
-    width: 530px;
+    width: 519px;
 
 }
 
 .img3{
-    width: 440px;
+    width: 520px;
 }
 
 body{
-    background-color: #ffedde;
+    background-color: #FFE8F1;
 }
 
 .botao{
    color: black;
-   background-color: #ffa427;
+   background-color: #EF5F96;
    border-radius: 15%;
    height: 40px;
    width: 80px;
