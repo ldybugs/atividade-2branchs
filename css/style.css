@@ -1,0 +1,32 @@
+.img1{
+    width: 500px;
+    padding-left: 180px;
+}
+
+.img2{
+    width: 530px;
+
+}
+
+.img3{
+    width: 440px;
+}
+
+body{
+    background-color: #ffedde;
+}
+
+.botao{
+   color: black;
+   background-color: #ffa427;
+   border-radius: 15%;
+   height: 40px;
+   width: 80px;
+   font-size: 18px;
+   margin: auto;
+   display: block;
+}
+
+.video{ 
+    padding-left: 665px;
+}
